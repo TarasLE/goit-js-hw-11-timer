@@ -2,6 +2,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgba(26, 26, 26, 0.207);
 }
 
 .timer {

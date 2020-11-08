@@ -21,7 +21,7 @@ class CountdownTimer {
                 const currentTime = Date.now();
                 const time = this.targetDate - currentTime;
                 const {days, hours, mins, secs} = getTimeComponents(time)
-              console.log(`${ days }days ${ hours }:${ mins }:${secs}`);
+            //   console.log(`${ days }days ${ hours }:${ mins }:${secs}`);
               this.updateTimerFace(getTimeComponents(time));
            
             },1000)
