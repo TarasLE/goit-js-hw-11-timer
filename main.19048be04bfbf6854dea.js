@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(e,o){new CountdownTimer({selector:"#timer-1",targetDate:new Date("Jul 17, 2019")});var t=targetDate-Date.now();Math.floor(t/864e5),Math.floor(t%864e5/36e5),Math.floor(t%36e5/6e4),Math.floor(t%6e4/1e3)}},[["QfWi",1]]]);
-//# sourceMappingURL=main.19048be04bfbf6854dea.js.map
